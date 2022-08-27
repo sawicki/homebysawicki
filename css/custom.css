@@ -1,0 +1,13 @@
+.textleft{text-align:left;}
+.textwhite{color:white;}
+a[href^=tel] {
+  color:white;
+}
+.relpos {position:relative}
+.readmore {
+	color:#666;
+	font-size:16px;
+}
+.nav-bar{float:left;}
+.floatleft{float:left;} 
+.border{border:3px solid navy;}
